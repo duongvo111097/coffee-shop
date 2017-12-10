@@ -1,0 +1,5 @@
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\DataAccess\bin\Debug\DataAccess.dll
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\DataAccess\obj\Debug\DataAccess.dll
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\DataAccess\obj\Debug\DataAccess.pdb

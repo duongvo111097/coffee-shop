@@ -1,0 +1,137 @@
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ShopManager.exe.config
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.exe
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ShopManager.exe
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ShopManager.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\BusinessLogic.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DataAccess.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\BusinessLogic.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DataAccess.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.csprojResolveAssemblyReference.cache
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageSell.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.Login.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageGoods.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageShop.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageStaff.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageStock.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.Properties.Resources.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.csproj.GenerateResource.Cache
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageMenu.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeeShop\ShopManager\obj\Debug\ShopManager.exe.licenses
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ShopManager.exe.config
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.exe
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ShopManager.exe
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ShopManager.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\BusinessLogic.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DataAccess.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\BusinessLogic.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DataAccess.pdb
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.csprojResolveAssemblyReference.cache
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageMenu.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageSell.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.Login.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageGoods.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageShop.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageStaff.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageStock.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.Properties.Resources.resources
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.csproj.GenerateResource.Cache
+C:\Users\triae\OneDrive\Tài liệu\Visual Studio 2015\Projects\CoffeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.exe.licenses
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.csprojResolveAssemblyReference.cache
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageMenu.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageSell.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.Login.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageGoods.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageShop.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageStaff.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.ManageStock.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.Properties.Resources.resources
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.csproj.GenerateResource.Cache
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.exe.licenses
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.exe
+D:\CoffeeShop\CoffeeShop\ShopManager\obj\Debug\ShopManager.pdb

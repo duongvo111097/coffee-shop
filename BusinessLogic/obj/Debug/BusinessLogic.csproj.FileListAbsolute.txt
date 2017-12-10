@@ -1,0 +1,15 @@
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\bin\Debug\DataAccess.dll
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\bin\Debug\DataAccess.pdb
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\triae\onedrive\tài liệu\visual studio 2015\Projects\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\CoffeeShop\CoffeeShop\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\CoffeeShop\CoffeeShop\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\CoffeeShop\CoffeeShop\BusinessLogic\bin\Debug\DataAccess.dll
+D:\CoffeeShop\CoffeeShop\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\CoffeeShop\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\CoffeeShop\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\CoffeeShop\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\CoffeeShop\CoffeeShop\BusinessLogic\obj\Debug\BusinessLogic.pdb

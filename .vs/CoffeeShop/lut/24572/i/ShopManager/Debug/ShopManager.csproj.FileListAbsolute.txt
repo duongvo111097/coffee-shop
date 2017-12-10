@@ -1,0 +1,11 @@
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.csprojResolveAssemblyReference.cache
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.ManageMenu.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.ManageSell.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.Login.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.ManageGoods.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.ManageShop.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.ManageStaff.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.ManageStock.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.Properties.Resources.resources
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.csproj.GenerateResource.Cache
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\ShopManager\Debug\ShopManager.exe.licenses

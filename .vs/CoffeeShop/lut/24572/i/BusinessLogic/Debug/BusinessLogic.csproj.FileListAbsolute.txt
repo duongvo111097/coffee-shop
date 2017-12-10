@@ -1,0 +1,6 @@
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\b\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\b\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\BusinessLogic\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\BusinessLogic\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\BusinessLogic\Debug\BusinessLogic.dll
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\BusinessLogic\Debug\BusinessLogic.pdb

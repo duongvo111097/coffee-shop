@@ -1,0 +1,6 @@
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\b\DataAccessTests\bin\Debug\DataAccessTests.dll
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\b\DataAccessTests\bin\Debug\DataAccessTests.pdb
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\DataAccessTests\Debug\DataAccessTests.csprojResolveAssemblyReference.cache
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\DataAccessTests\Debug\DataAccessTests.csproj.CoreCompileInputs.cache
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\DataAccessTests\Debug\DataAccessTests.dll
+D:\CoffeeShop\CoffeeShop\.vs\CoffeeShop\lut\0\i\DataAccessTests\Debug\DataAccessTests.pdb
